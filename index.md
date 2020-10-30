@@ -4,13 +4,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Education
 
-- Ph.D. Student in Graduate School of Data Science, Seoul National University, 2020 - Present
+- **Ph.D. Student in Graduate School of Data Science, Seoul National University, 2020 - Present**
 - M.S. in Management Engineering (Finance Track), Korea Advanced Institute of Science and Technology (KAIST), 2012 - 2014
 - B.S. in Mathematical Sciences, Korea Advanced Institute of Science and Technology (KAIST), 2006 - 2012
 
 ### Experience
 
-- Senior Manager, Financial Supervisory Service, 2014 - Present (On leave)
+- **Senior Manager, Financial Supervisory Service, 2014 - Present (On leave since 2020)**
 - Internship, Samsung Asset Management, 2013
 - Internship, Korea Hydro & Nuclear Power, 2008
 
@@ -19,6 +19,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Methods for analyzing big, complex data
 - Natural sciences
 - Finance and investments
+
+### Publications
+
+- K. Park, W. Jang, W. Lee, **K. Nam**, K. Seong, K. Chai and W. Li. Real-time Mask Detection on Google Edge TPU, _arXiv_, 2020 ([link](https://arxiv.org/abs/2010.04427))
+- **K. Nam**. Momentum effects based on style comovement, 2013 (M.S. thesis, written in Korean) ([link](http://library.kaist.ac.kr/search/detail/view.do?bibCtrlNo=569786&flag=dissertation))
 
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
