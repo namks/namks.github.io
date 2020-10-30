@@ -1,14 +1,18 @@
-## Kisung Nam
-
 <!-- You can use the [editor on GitHub](https://github.com/namks/namks.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
-### Short Bio
+### Education
 
 - Ph.D. Student in Graduate School of Data Science, Seoul National University, 2020 - Present
 - M.S. in Management Engineering (Finance Track), Korea Advanced Institute of Science and Technology (KAIST), 2012 - 2014
 - B.S. in Mathematical Sciences, Korea Advanced Institute of Science and Technology (KAIST), 2006 - 2012
+
+### Experience
+
+- Senior Manager, Financial Supervisory Service, 2014 - Present (On leave)
+- Internship, Samsung Asset Management, 2013
+- Internship, Korea Hydro & Nuclear Power, 2008
 
 ### Interests
 
