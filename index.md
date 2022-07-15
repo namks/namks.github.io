@@ -4,7 +4,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Education
 
-- **Ph.D. Student in Graduate School of Data Science, Seoul National University, 2020 - Present**
+- **Ph.D. Candidate in Graduate School of Data Science, Seoul National University, 2020 - Present**
 - M.S. in Management Engineering (Finance Track), Korea Advanced Institute of Science and Technology (KAIST), 2012 - 2014
 - B.S. in Mathematical Sciences, Korea Advanced Institute of Science and Technology (KAIST), 2006 - 2012
 
@@ -16,14 +16,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Interests
 
-- Methods for analyzing big, complex data
+- Methods for analyzing big, complex data including genomic data
 - Natural sciences
 - Finance and investments
 
 ### Publications
 
-- K. Park, W. Jang, W. Lee, **K. Nam**, K. Seong, K. Chai and W. Li. Real-time Mask Detection on Google Edge TPU, _arXiv_, 2020 ([link](https://arxiv.org/abs/2010.04427))
-- **K. Nam**. Momentum effects based on style comovement, 2013 (M.S. thesis, written in Korean) ([link](http://library.kaist.ac.kr/search/detail/view.do?bibCtrlNo=569786&flag=dissertation))
+- Zhuang, Y., Wolford, B., **Nam, K.**, Bi, W., Zhou, W., Willer, C., Mukherjee, B., and Lee, S. Incorporating family disease history and controlling case-control imbalance for population based genetic association studies, _Bioinformatics_, 2022 (in press)
+- **Nam, K.**, Kim, J., Lee, S. Genome-wide study on 72,298 Korean individuals in Korean biobank data for 76 traits identifies hundreds of novel loci, _medRxiv_, 2022 ([link](https://www.medrxiv.org/content/10.1101/2022.02.23.22271389v1))
+- Park, K., Jang, W., Lee, W., **Nam, K.**, Seong, K., Chai, K., and Li, W. Real-time Mask Detection on Google Edge TPU, _arXiv_, 2020 ([link](https://arxiv.org/abs/2010.04427))
+- **Nam, K**. Momentum effects based on style comovement, 2013 (M.S. thesis, written in Korean) ([link](http://library.kaist.ac.kr/search/detail/view.do?bibCtrlNo=569786&flag=dissertation))
 
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
