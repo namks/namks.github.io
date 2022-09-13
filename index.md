@@ -23,7 +23,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Publications
 
 - Zhuang, Y., Wolford, B., **Nam, K.**, Bi, W., Zhou, W., Willer, C., Mukherjee, B., and Lee, S. Incorporating family disease history and controlling case-control imbalance for population based genetic association studies, _Bioinformatics_, 2022 ([link](https://doi.org/10.1093/bioinformatics/btac459))
-- **Nam, K.**, Kim, J., Lee, S. Genome-wide study on 72,298 Korean individuals in Korean biobank data for 76 traits identifies hundreds of novel loci, _medRxiv_, 2022 ([link](https://www.medrxiv.org/content/10.1101/2022.02.23.22271389v1))
+- **Nam, K.**, Kim, J., Lee, S. Genome-wide study on 72,298 individuals in Korean biobank data for 76 traits, _Cell Genomics_, 2022 (Forthcoming) ([link for preprint](https://www.medrxiv.org/content/10.1101/2022.02.23.22271389v1))
 - Park, K., Jang, W., Lee, W., **Nam, K.**, Seong, K., Chai, K., and Li, W. Real-time Mask Detection on Google Edge TPU, _arXiv_, 2020 ([link](https://arxiv.org/abs/2010.04427))
 - **Nam, K**. Momentum effects based on style comovement, 2013 (M.S. thesis, written in Korean) ([link](http://library.kaist.ac.kr/search/detail/view.do?bibCtrlNo=569786&flag=dissertation))
 
